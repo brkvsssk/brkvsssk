@@ -44,4 +44,9 @@ Manual testing · API testing (REST, Postman) · Test documentation · Git · SQ
 
 
 ## Portfolio 
-
+### [Trello Board – To-Do List Site Testing](https://trello.com/invite/b/686e3e46ab2c1da359c2c180/ATTI5de6fe07bc4587f8571da1a236ee64325901517C/qa-oksana-todolist-site)
+This board documents my QA process for a To-Do List website. It includes test cases, bug reports, test scenarios, and notes used during testing.
+### [Notion Testing: Calendly App](https://bronze-ringer-0b8.notion.site/DevelopsToday-Manual-QA-Engineer-assessment-2328c82c27958051ad46c1b0e8275728?source=copy_link)
+Tested the Calendly scheduling app by creating detailed test cases and identifying bugs.
+### [API Testing: Servio Soft](https://www.postman.com/aviation-administrator-92988204/servio-soft/collection/ldlcxh1/servio-soft?action=share&creator=39906575)
+Performed API testing on the Servio Soft API using Postman.
