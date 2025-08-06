@@ -21,6 +21,10 @@
 
 
 ## Skills
+Manual testing · API testing (REST, Postman) · Test documentation · Git · SQL · HTML/CSS · SDLC understanding
+
+
+
 
 ## Tools
 
